@@ -5,27 +5,27 @@ A full-stack ChatGPT-style application built with React, JavaScript, TailwindCSS
 ## Features
 
 ### Frontend
-- ✅ Landing page with "New Chat" functionality
-- ✅ Collapsible left sidebar with:
+Landing page with "New Chat" functionality
+ Collapsible left sidebar with:
   - All chat sessions
   - "New Chat" button
   - User information
-- ✅ Chat interface with:
+Chat interface with:
   - Real-time message display
   - Table view for structured data
   - Descriptions for answers
-- ✅ Answer feedback (Like/Dislike buttons)
-- ✅ Dark/Light theme toggle
-- ✅ Session management:
+Answer feedback (Like/Dislike buttons)
+Dark/Light theme toggle
+Session management:
   - Session-based chat with URL routing
   - Session history in sidebar
   - Click to load conversation history
 
 ### Backend
-- ✅ RESTful API with Express
-- ✅ Mock data storage (JSON file)
-- ✅ Session management
-- ✅ Message history tracking
+RESTful API with Express
+Mock data storage (JSON file)
+Session management
+Message history tracking
 
 ## Project Structure
 
